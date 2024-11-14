@@ -1,0 +1,754 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadenegocio\\clases\\singletonusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\webecuelajson\\js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadenegocio\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A16E68-BCA4-4AE3-BE67-20FA9108FCD3}|..\\CapaDeDatos1\\CapaDeDatos1.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadedatos1\\clases\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadenegocio\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadenegocio\\interfaces\\isingletonusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadenegocio\\interfaces\\iabmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadenegocio\\datos\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0C1BE2-8628-4F4D-BACA-7688609BAA73}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadenegocio\\clases\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A16E68-BCA4-4AE3-BE67-20FA9108FCD3}|..\\CapaDeDatos1\\CapaDeDatos1.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadedatos1\\interfaces\\iparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A16E68-BCA4-4AE3-BE67-20FA9108FCD3}|..\\CapaDeDatos1\\CapaDeDatos1.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadedatos1\\interfaces\\ijsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A16E68-BCA4-4AE3-BE67-20FA9108FCD3}|..\\CapaDeDatos1\\CapaDeDatos1.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadedatos1\\interfaces\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A16E68-BCA4-4AE3-BE67-20FA9108FCD3}|..\\CapaDeDatos1\\CapaDeDatos1.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadedatos1\\interfaces\\ibasicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A16E68-BCA4-4AE3-BE67-20FA9108FCD3}|..\\CapaDeDatos1\\CapaDeDatos1.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadedatos1\\clases\\parentsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A16E68-BCA4-4AE3-BE67-20FA9108FCD3}|..\\CapaDeDatos1\\CapaDeDatos1.csproj|c:\\users\\user\\onedrive\\escritorio\\webescuelajson-main\\webescuelajson-main\\capadedatos1\\clases\\jsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:js\\nav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:js\\table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\cfote\\Desktop\\WebJson\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\cfote\\Desktop\\WebJson\\WebEcuelaJson|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\WebEcuelaJson|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\cfote\\Desktop\\WebJson\\WebEcuelaJson|C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649FF9E1-8A76-4201-8C48-D55AA79B2407}|C:\\Users\\cfote\\Desktop\\WebJson\\WebEcuelaJson|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\usuarios.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IBasicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IJsonConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IParameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\ParentSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\JsonConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IID.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IParentSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IABMC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form.js",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\form.js",
+              "RelativeDocumentMoniker": "js\\form.js",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\form.js",
+              "RelativeToolTip": "js\\form.js",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAG4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T21:15:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nav.js",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\nav.js",
+              "RelativeDocumentMoniker": "js\\nav.js",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\nav.js",
+              "RelativeToolTip": "js\\nav.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T21:27:22.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "table.js",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\table.js",
+              "RelativeDocumentMoniker": "js\\table.js",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\table.js",
+              "RelativeToolTip": "js\\table.js",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAHQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T20:57:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:29:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-13T19:41:31.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatosUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:47:47.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:31:30.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingletonUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:28:10.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:56:38.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Clases\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos1\\Clases\\Connection.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Clases\\Connection.cs",
+              "RelativeToolTip": "..\\CapaDeDatos1\\Clases\\Connection.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:08:01.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISingletonUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:25:20.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IABMC.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:56:46.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:28:00.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IParameters.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Interfaces\\IParameters.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos1\\Interfaces\\IParameters.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Interfaces\\IParameters.cs",
+              "RelativeToolTip": "..\\CapaDeDatos1\\Interfaces\\IParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:10:43.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Interfaces\\IJsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos1\\Interfaces\\IJsonConverter.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Interfaces\\IJsonConverter.cs",
+              "RelativeToolTip": "..\\CapaDeDatos1\\Interfaces\\IJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:10:24.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Interfaces\\IConnection.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos1\\Interfaces\\IConnection.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Interfaces\\IConnection.cs",
+              "RelativeToolTip": "..\\CapaDeDatos1\\Interfaces\\IConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:10:00.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBasicconnection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Interfaces\\IBasicconnection.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos1\\Interfaces\\IBasicconnection.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Interfaces\\IBasicconnection.cs",
+              "RelativeToolTip": "..\\CapaDeDatos1\\Interfaces\\IBasicconnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:09:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ParentSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Clases\\ParentSingleton.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos1\\Clases\\ParentSingleton.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Clases\\ParentSingleton.cs",
+              "RelativeToolTip": "..\\CapaDeDatos1\\Clases\\ParentSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:08:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Clases\\JsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos1\\Clases\\JsonConverter.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\CapaDeDatos1\\Clases\\JsonConverter.cs",
+              "RelativeToolTip": "..\\CapaDeDatos1\\Clases\\JsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:08:30.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-08T00:01:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "nav.js",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\nav.js",
+              "RelativeDocumentMoniker": "js\\nav.js",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\nav.js",
+              "RelativeToolTip": "js\\nav.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-04T04:31:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "table.js",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\table.js",
+              "RelativeDocumentMoniker": "js\\table.js",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\table.js",
+              "RelativeToolTip": "js\\table.js",
+              "ViewState": "AgIAAGwAAAAAAAAAAADgv4UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T21:15:49.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "form.js",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\form.js",
+              "RelativeDocumentMoniker": "js\\form.js",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\js\\form.js",
+              "RelativeToolTip": "js\\form.js",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T21:28:45.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-25T20:24:29.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:12:46.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IGenericSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IGenericSingleton.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:07:52.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IJsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IJsonConverter.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IJsonConverter.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IJsonConverter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:26:22.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SingletonUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\SingletonUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:14:04.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IParameters.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IParameters.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IParameters.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IParameters.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:26:17.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IConnection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IConnection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IConnection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:56:07.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBasicconnection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IBasicconnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IBasicconnection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IBasicconnection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Interfaces\\IBasicconnection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:20:58.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DatosUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:56:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Singleton.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:32:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ParentSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\ParentSingleton.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\ParentSingleton.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\ParentSingleton.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\ParentSingleton.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:29:11.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\JsonConverter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\JsonConverter.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\JsonConverter.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\JsonConverter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:28:28.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\Connection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\Connection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDatos\\Clases\\Connection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:24:22.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IID.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IID.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IID.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IID.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IID.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:20:46.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ISingletonUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\ISingletonUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:18:50.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:17:36.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IParentSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IParentSingleton.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IParentSingleton.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IParentSingleton.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IParentSingleton.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:17:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IABMC.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\BaseDeDatos SoloUsuario\\WebEscuelaJson-main\\CapaDeNegocio\\Interfaces\\IABMC.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:16:50.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA7wF0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:14:35.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "usuarios.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\usuarios.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\usuarios.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\usuarios.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\usuarios.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T04:59:22.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Clases\\Usuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:56:47.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DatosUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Usuario\\Desktop\\WebEscuela\\WebEscuelaJson-main\\CapaDeNegocio\\Datos\\DatosUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:10:13.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-18T16:34:31.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADgv10AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:28:20.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\WebEscuelaJson-main\\WebEscuelaJson-main\\WebEcuelaJson\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-18T16:27:21.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
